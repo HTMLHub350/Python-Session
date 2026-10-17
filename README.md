@@ -1,2 +1,2 @@
-# Python-Session
-A python session that will later have millions of python files.
+# Python Session
+Welcome to `Python Session`, This will sooner or later have millions of files, literal millions.
